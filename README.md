@@ -7,7 +7,8 @@
  </div>
  <h2 align="center">Linguagens - Frameworks</h2>
 <div align=center>
-    <img height="40" src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,vuejs,bootstrap,java,mysql,mongodb,jest,cypress,javascript,typescript,nodejs,c" />
+    <img height="40" src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,vuejs,bootstrap" /><br>
+    <img height="40" src="https://skillicons.dev/icons?i=java,mysql,mongodb,jest,cypress,javascript,typescript,nodejs,c" />
 </div>
 
 <div align=center>
