@@ -2,7 +2,7 @@
 
 <div align="center">
 
- 📚 Estudante de Desenvolvimento de Sistema.
+ 📚 Formação técnica em Desenvolvimento de Sistema, 2024 (SENAI).
 
  </div>
  <h2 align="center">Linguagens - Frameworks</h2>
