@@ -14,7 +14,7 @@
 <div align=center>
   <h2>Estatísticas</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonBLuz&show_icons=true&theme=react&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonBLuz&layout=compact&langs_count=7&theme=react&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonBLuz&layout=compact&langs_count=6&theme=react&exclude_repo=PojetoKNNTIC36,sasi-api,ProjetoK-means&border_radius=10"/>
 </div>
 
 <div align=center>
