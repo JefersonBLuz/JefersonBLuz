@@ -7,8 +7,8 @@
  </div>
  <h2 align="center">Linguagens - Frameworks</h2>
 <div align=center>
-    <img height="40" src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,next,vue,bootstrap,tailwindcss" /><br>
-    <img height="40" src="https://skillicons.dev/icons?i=jest,cypress,postgres,mongodb,mysql,java,javascript,typescript,nodejs,c,docker" />
+    <img height="40" src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,react,next,vue,nuxt,bootstrap,tailwindcss" /><br>
+    <img height="40" src="https://skillicons.dev/icons?i=jest,cypress,postgres,mongodb,mysql,nest,java,javascript,typescript,nodejs,c,docker" />
 </div>
 
 <div align=center>
